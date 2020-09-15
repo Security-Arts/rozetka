@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2020-10-09 12:00">
+    <shop>
+        <name>Quantum апаратний крипто гаманець</name>
+        <company>Security Arts</company>
+        <url>https://security-arts.com/</url>
+        <currencies>
+            <currency id="USD" rate="27.9" />
+        </currencies>
+        <categories>
+            <category id="4647582">Кошельки для криптовалют</category>
+        </categories>
+        <offers>
+            <offer available="true" id="888">
+                <url>https://security-arts.com/docs/ua/intro</url>
+                <price>49</price>
+                <currencyId>USD</currencyId>
+                <categoryId>4647582</categoryId>
+                <picture>https://picua.org/images/2020/09/14/f75062073cf3cff951cc72ffb3de49dc.jpg</picture>
+                <picture>https://picua.org/images/2020/09/14/c275f91d8ddb928b858503913e08b256.jpg</picture>
+                <picture>https://picua.org/images/2020/09/14/cec9e9fb93844cd3b640bc8c1310ea31.jpg</picture>
+                <name>Крипто гаманець Quantum (888)</name>
+                <vendor>Security Arts</vendor>
+                <description><![CDATA[<p>QUANTUM – це мультифункціональний криптопристрій (апаратний гаманець криптовалют, менеджер паролів та 2FA токен), який надійно зберігає Ваші секретні дані та дозволяє безпечно керувати коштами, навіть, при підключенні до інфікованого ПК.</p>]]></description>
+                <param name="Дополнительные характеристики"><![CDATA[<p>Розмір: 64мм х 25мм х 8мм.<br>OLED екран 128 x 64px.<br>4 механічні кнопки.USB Micro-B конектор.</p>]]></param>
+                <param name="Материал">Пластик Метал</param>
+                <param name="Вид">Кошельки для криптовалют</param>
+                <param name="Размеры коробки">110x60x35 мм</param>
+                <param name="Страна-производитель">Україна</param>
+                <param name="Гарантия">12 місяців</param>
+                <stock_quantity>100</stock_quantity>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
