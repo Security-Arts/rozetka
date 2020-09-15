@@ -5,7 +5,7 @@
         <company>Security Arts</company>
         <url>https://security-arts.com/</url>
         <currencies>
-            <currency id="USD" rate="27.9" />
+            <currency id="USD" rate="28" />
         </currencies>
         <categories>
             <category id="4647582">Кошельки для криптовалют</category>
